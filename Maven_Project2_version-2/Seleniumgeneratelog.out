@@ -1,0 +1,43 @@
+2020-03-30 15:07:57 INFO  LogsGenerate:39 - enter username
+2020-03-30 15:07:58 INFO  LogsGenerate:41 - username entered
+2020-03-30 15:07:58 INFO  LogsGenerate:44 - password entered
+2020-03-30 15:08:01 INFO  LogsGenerate:47 - login button pressed
+2020-03-30 15:40:21 INFO  LogsGenerate:10 - hello
+2020-03-30 15:41:01 INFO  LogsGenerate:10 - hello
+2020-03-30 15:47:30 INFO  FacebookLogin:39 - enter username
+2020-03-30 15:47:30 INFO  FacebookLogin:41 - username entered
+2020-03-30 15:47:30 INFO  FacebookLogin:44 - password entered
+2020-03-30 15:47:33 INFO  FacebookLogin:47 - login button pressed
+2020-03-30 15:51:58 INFO  FbLoginTest:23 - Launch browser
+2020-03-30 15:52:30 INFO  FbLoginTest:26 - browser launched
+2020-03-30 15:52:30 INFO  FbLoginTest:30 - call elements by pageobjects
+2020-03-30 15:52:30 INFO  FacebookLogin:39 - enter username
+2020-03-30 15:52:31 INFO  FacebookLogin:41 - username entered
+2020-03-30 15:52:31 INFO  FacebookLogin:44 - password entered
+2020-03-30 15:52:33 INFO  FacebookLogin:47 - login button pressed
+2020-03-30 15:52:33 INFO  FbLoginTest:35 - perform events from given methods
+2020-03-31 14:53:26 INFO  FbLoginTest:23 - Launch browser
+2020-03-31 14:54:37 INFO  FbLoginTest:26 - browser launched
+2020-03-31 14:54:38 INFO  FbLoginTest:30 - call elements by pageobjects
+2020-03-31 14:54:38 INFO  FacebookLogin:39 - enter username
+2020-03-31 14:54:39 INFO  FacebookLogin:41 - username entered
+2020-03-31 14:54:39 INFO  FacebookLogin:44 - password entered
+2020-03-31 14:54:40 INFO  FacebookLogin:47 - login button pressed
+2020-03-31 14:54:40 INFO  FbLoginTest:35 - perform events from given methods
+2020-04-04 11:41:04 INFO  FbLoginTest:23 - Launch browser
+2020-04-04 11:43:06 INFO  FbLoginTest:26 - browser launched
+2020-04-04 11:43:07 INFO  FbLoginTest:30 - call elements by pageobjects
+2020-04-04 11:43:07 INFO  FacebookLogin:39 - enter username
+2020-04-04 11:43:08 INFO  FacebookLogin:41 - username entered
+2020-04-04 11:43:08 INFO  FacebookLogin:44 - password entered
+2020-04-04 11:43:21 INFO  FacebookLogin:47 - login button pressed
+2020-04-04 11:43:21 INFO  FbLoginTest:35 - perform events from given methods
+2020-07-25 16:23:56 INFO  FbLoginTest:23 - Launch browser
+2020-07-25 16:26:24 INFO  FbLoginTest:23 - Launch browser
+2020-07-25 16:27:45 INFO  FbLoginTest:26 - browser launched
+2020-07-25 16:27:46 INFO  FbLoginTest:30 - call elements by pageobjects
+2020-07-25 16:27:46 INFO  FacebookLogin:39 - enter username
+2020-07-25 16:27:47 INFO  FacebookLogin:41 - username entered
+2020-07-25 16:27:47 INFO  FacebookLogin:44 - password entered
+2020-07-25 16:27:48 INFO  FacebookLogin:47 - login button pressed
+2020-07-25 16:27:48 INFO  FbLoginTest:35 - perform events from given methods
