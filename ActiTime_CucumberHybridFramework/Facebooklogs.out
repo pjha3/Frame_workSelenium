@@ -1,0 +1,26 @@
+2020-07-18 17:47:46 INFO  StepDef:34 - *** Browser Launched ***
+2020-07-18 17:47:49 INFO  StepDef:36 - *** Chrome maximized ***
+2020-07-18 17:47:52 INFO  StepDef:45 - *** Browser Launched by user ***
+2020-07-18 17:47:59 INFO  StepDef:51 - *** Application Launched ***
+2020-07-18 17:48:00 INFO  StepDef:58 - *** User entered user name ***
+2020-07-18 17:48:00 INFO  StepDef:65 - *** User entered password ***
+2020-07-18 17:48:01 INFO  StepDef:72 - *** User clicked Login button ***
+2020-07-18 17:48:14 INFO  StepDef:81 - *** Page Title verified ***
+2020-07-18 17:48:21 INFO  StepDef:94 - *** User clicked on Task Link ***
+2020-07-18 17:48:26 INFO  StepDef:101 - *** User clicked on project and customer link ***
+2020-07-18 17:48:30 INFO  StepDef:108 - *** User clicked on New customer Link ***
+2020-07-18 17:48:31 INFO  StepDef:115 - *** User entered Customer Name ***
+2020-07-18 17:48:36 INFO  StepDef:122 - *** User clicked on Submit Customer ***
+2020-07-18 17:48:37 INFO  StepDef:127 - *** User closed browser ***
+2020-07-18 17:48:46 INFO  StepDef:34 - *** Browser Launched ***
+2020-07-18 17:48:48 INFO  StepDef:36 - *** Chrome maximized ***
+2020-07-18 17:48:48 INFO  StepDef:45 - *** Browser Launched by user ***
+2020-07-18 17:48:53 INFO  StepDef:51 - *** Application Launched ***
+2020-07-18 17:48:53 INFO  StepDef:58 - *** User entered user name ***
+2020-07-18 17:48:54 INFO  StepDef:65 - *** User entered password ***
+2020-07-18 17:48:54 INFO  StepDef:72 - *** User clicked Login button ***
+2020-07-18 17:49:06 INFO  StepDef:86 - *** Title not verified ***
+2020-07-18 17:49:07 INFO  StepDef:137 - *** Logo is displayed***
+2020-07-18 17:49:09 INFO  StepDef:150 - *** User click on LogOut ***
+2020-07-18 17:49:09 INFO  StepDef:158 - *** Login Page title verified ***
+2020-07-18 17:49:10 INFO  StepDef:127 - *** User closed browser ***
